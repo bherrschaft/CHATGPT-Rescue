@@ -1,5 +1,5 @@
 # My interaction with GPT was one prompt which was: 
-# Keeping the following parameters in mind, please complete the assignment: 
+### Keeping the following parameters in mind, please complete the assignment: 
 Objective:
 The purpose of this assignment is to use ChatGPT as a design assistant to create the HTML and CSS for a webpage. This exercise will help you understand how to effectively communicate with an AI model to generate specific web development outputs.
 
